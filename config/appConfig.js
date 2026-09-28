@@ -1,4 +1,4 @@
-const FRONTEND_URL = "https://widgetifyy.netlify.app";
+const FRONTEND_URL = "https://widget-frontend-eosin.vercel.app";
 
 // For local development, comment the production URL above
 // and uncomment:
